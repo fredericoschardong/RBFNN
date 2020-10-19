@@ -1,7 +1,3 @@
-# RBFNN
-A (simple) radial base function neural network (RBFNN) for sklearn
-
-
 # Programming Exercise 6: Radial Base Function (RBF) Neural Network
 ## Description
 Python (sklearn-based) implementation that explores how different heuristics and parameters impact a RBFNN. 
